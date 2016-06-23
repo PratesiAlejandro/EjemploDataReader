@@ -1,0 +1,9 @@
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\bin\Debug\EjemploDT.exe.config
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\bin\Debug\EjemploDT.exe
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\bin\Debug\EjemploDT.pdb
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.exe
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.pdb
+C:\Users\alumno.LAB4PC\Desktop\EjemploDT\EjemploDT\EjemploDT\obj\Debug\EjemploDT.csprojResolveAssemblyReference.cache

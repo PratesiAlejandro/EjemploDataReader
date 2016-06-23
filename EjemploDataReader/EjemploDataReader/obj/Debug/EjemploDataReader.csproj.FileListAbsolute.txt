@@ -1,0 +1,21 @@
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.exe.config
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.exe
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.pdb
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.csprojResolveAssemblyReference.cache
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.Form1.resources
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.Properties.Resources.resources
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.csproj.GenerateResource.Cache
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.exe
+C:\Users\Christian\documents\visual studio 2012\Projects\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.pdb
+C:\Users\chris_000\Desktop\Clase10-LabIII-DataAdapter\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.exe.config
+C:\Users\chris_000\Desktop\Clase10-LabIII-DataAdapter\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.exe
+C:\Users\chris_000\Desktop\Clase10-LabIII-DataAdapter\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\bin\Debug\EjemploDataReader.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.Form1.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\EjemploDataReader\EjemploDataReader\obj\Debug\EjemploDataReader.csproj.GenerateResource.Cache
